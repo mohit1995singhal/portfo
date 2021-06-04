@@ -3,7 +3,7 @@ certifi==2019.9.11
 cfgv==2.0.1
 chardet==3.0.4
 Click==7.0
-Django==2.2.7
+Django==2.2.21
 filelock==3.0.12
 identify==1.4.7
 idna==2.8
